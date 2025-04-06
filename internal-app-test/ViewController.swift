@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  InternalApp
+//  internal-app-test
 //
 //  Created by Eslam Nasser on 2025-04-06.
 //
@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         view.backgroundColor = .blue
-        pewPew.pew() // should print pew
+        pewPew.pew()
     }
 }
 

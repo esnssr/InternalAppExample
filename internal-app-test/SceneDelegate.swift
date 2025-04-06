@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  InternalApp
+//  internal-app-test
 //
 //  Created by Eslam Nasser on 2025-04-06.
 //
