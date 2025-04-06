@@ -7,3 +7,5 @@ xcuserdata/
 *.dSYM
 
 Package.resolved
+
+.swiftpm
