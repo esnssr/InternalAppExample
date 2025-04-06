@@ -13,10 +13,11 @@
 		781CA6702DA2BD1F00A2D731 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781CA6622DA2BD1F00A2D731 /* AppDelegate.swift */; };
 		781CA6712DA2BD1F00A2D731 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781CA6692DA2BD1F00A2D731 /* SceneDelegate.swift */; };
 		781CA6722DA2BD1F00A2D731 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 781CA66A2DA2BD1F00A2D731 /* ViewController.swift */; };
-		781CA6752DA2BD5D00A2D731 /* InternalAppPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 781CA6742DA2BD5D00A2D731 /* InternalAppPackage */; };
+		78D6CF4F2DA2C30A00A06B60 /* InternalAppPackage in Frameworks */ = {isa = PBXBuildFile; productRef = 781CA6742DA2BD5D00A2D731 /* InternalAppPackage */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7816B4AF2DA2BF9A00DA9531 /* internal-app-example */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "internal-app-example"; sourceTree = "<group>"; };
 		781CA63A2DA2BD0C00A2D731 /* internal-app-test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "internal-app-test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		781CA6622DA2BD1F00A2D731 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		781CA6632DA2BD1F00A2D731 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -32,7 +33,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				781CA6752DA2BD5D00A2D731 /* InternalAppPackage in Frameworks */,
+				78D6CF4F2DA2C30A00A06B60 /* InternalAppPackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -73,6 +74,7 @@
 		781CA6732DA2BD5D00A2D731 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				7816B4AF2DA2BF9A00DA9531 /* internal-app-example */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
